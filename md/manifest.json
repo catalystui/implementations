@@ -15,6 +15,14 @@
                         {
                             "title": "lib-core-c",
                             "path": "/implementations/lib-core-c/"
+                        },
+                        {
+                            "title": "lib-aether-c",
+                            "path": "/implementations/lib-aether-c/"
+                        },
+                        {
+                            "title": "lib-crystal-c",
+                            "path": "/implementations/lib-crystal-c/"
                         }
                     ]
                 },

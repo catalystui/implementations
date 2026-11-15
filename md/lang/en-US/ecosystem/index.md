@@ -7,6 +7,8 @@ The CatalystUI ecosystem consists of libraries and tools that provide reusable i
 | Project | Description |
 | --- | --- |
 | [Core](/implementations/lib-core-c/) | Foundational types, memory management, text encoding, and relational collections through a native C ABI. |
+| [Aether](/implementations/lib-aether-c/) | Cross-platform C ABI library for native system-level bindings and operating system functionality. |
+| [Crystal](/implementations/lib-crystal-c/) | Cross-platform C ABI library for windowing and system interaction, implementing the Window layer of the CatalystUI model. |
 
 [View C / C++ implementations](/ecosystem/c/)
 
