@@ -13,7 +13,7 @@
                     "path": "/ecosystem/c/",
                     "children": [
                         {
-                            "title": "Core",
+                            "title": "lib-core-c",
                             "path": "/implementations/core/c/"
                         }
                     ]
@@ -23,7 +23,7 @@
                     "path": "/ecosystem/csharp/",
                     "children": [
                         {
-                            "title": "Internationalization",
+                            "title": "lib-i18n-csharp",
                             "path": "/implementations/internationalization/csharp/"
                         }
                     ]
