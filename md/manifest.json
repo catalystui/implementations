@@ -14,7 +14,7 @@
                     "children": [
                         {
                             "title": "lib-core-c",
-                            "path": "/implementations/core/c/"
+                            "path": "/implementations/lib-core-c/"
                         }
                     ]
                 },
@@ -24,7 +24,7 @@
                     "children": [
                         {
                             "title": "lib-i18n-csharp",
-                            "path": "/implementations/internationalization/csharp/"
+                            "path": "/implementations/lib-i18n-csharp/"
                         }
                     ]
                 }
