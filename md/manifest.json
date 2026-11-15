@@ -1,0 +1,34 @@
+{
+    "navigation": [
+        {
+            "title": "Getting Started",
+            "path": "/"
+        },
+        {
+            "title": "Ecosystem",
+            "path": "/ecosystem/",
+            "children": [
+                {
+                    "title": "C / C++",
+                    "path": "/ecosystem/c/",
+                    "children": [
+                        {
+                            "title": "Core",
+                            "path": "/implementations/core/c/"
+                        }
+                    ]
+                },
+                {
+                    "title": "C#",
+                    "path": "/ecosystem/csharp/",
+                    "children": [
+                        {
+                            "title": "Internationalization",
+                            "path": "/implementations/internationalization/csharp/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
